@@ -1,0 +1,64 @@
+Under Construction.
+
+Usage:
+
+1. 5_mkb2091.github.io_blockconvert_output_domains.txt.txt: 33.12%
+2. 34_raw.githubusercontent.com_cbuijs_hagezi_refs_heads_main_lists_tif-medium_domains.txt: 24.77%
+3. 6_oooo.b-cdn.net_blahdns_blahdns_hosts.txt.txt: 9.48%
+4. 41_raw.githubusercontent.com_jarelllama_Scam-Blocklist_refs_heads_main_lists_wildcard_domains_scams.txt.txt: 8.32%
+5. 25_raw.githubusercontent.com_TheAntiSocialEngineer_AntiSocial-BlockList-UK-Community_main_UK-Community.txt.txt: 3.37%
+6. 9_raw.githubusercontent.com_Phishing-Database_Phishing.Database_refs_heads_master_phishing-domains-ACTIVE.txt.txt: 3.18%
+7. 36_raw.githubusercontent.com_dead-hosts_domain_blocklist_web_dbl-oisd-nl_master_clean.list.txt: 3.02%
+8. 21_raw.githubusercontent.com_ShadowWhisperer_BlockLists_refs_heads_master_RAW_Tracking.txt: 2.82%
+9. 31_raw.githubusercontent.com_cbuijs_hagezi_main_accomplist_hagezi-pro_optimized.black.domain.list.txt: 2.66%
+10. 10_raw.githubusercontent.com_ShadowWhisperer_BlockLists_refs_heads_master_Lists_Typo.txt: 1.83%
+11. 7_phishing.army_download_phishing_army_blocklist_extended.txt.txt: 1.44%
+12. 16_raw.githubusercontent.com_ShadowWhisperer_BlockLists_refs_heads_master_RAW_Gambling.txt: 1.08%
+13. 17_raw.githubusercontent.com_ShadowWhisperer_BlockLists_refs_heads_master_RAW_Malware.txt: 1.06%
+14. 39_raw.githubusercontent.com_infinitytec_blocklists_master_medicalpseudoscience.txt.txt: 0.89%
+15. 19_raw.githubusercontent.com_ShadowWhisperer_BlockLists_refs_heads_master_RAW_Scam.txt: 0.51%
+16. 37_raw.githubusercontent.com_dead-hosts_rlwpx.free.fr.htrc_git_FadeMind_master_clean.list.txt: 0.49%
+17. 8_raw.githubusercontent.com_DandelionSprout_adfilt_master_Alternate%20versions%20Anti-Malware%20List_AntiMalwareHosts.txt.txt: 0.29%
+18. 11_raw.githubusercontent.com_ShadowWhisperer_BlockLists_refs_heads_master_RAW_Ads.txt: 0.26%
+19. 52_raw.githubusercontent.com_rimu_no-qanon_master_hosts.txt.txt: 0.20%
+20. 26_raw.githubusercontent.com_bongochong_CombinedPrivacyBlockLists_master_NoFormatting_BlacklistedDomains.txt.txt: 0.19%
+21. 3_github.com_infinitytec_blocklists_raw_master_scams-and-phishing.txt.txt: 0.14%
+22. 58_www.github.developerdan.com_hosts_lists_dating-services-extended.txt.txt: 0.12%
+23. 30_raw.githubusercontent.com_cbuijs_hagezi_main_accomplist_hagezi-hoster_optimized.black.domain.list.txt: 0.11%
+24. 53_raw.githubusercontent.com_smed79_blacklist_master_hosts.txt.txt: 0.11%
+25. 1_badmojr.gitlab.io_1hosts_Lite_domains.txt.txt: 0.09%
+26. 14_raw.githubusercontent.com_ShadowWhisperer_BlockLists_refs_heads_master_RAW_Dating.txt: 0.09%
+27. 29_raw.githubusercontent.com_cbuijs_hagezi_main_accomplist_hagezi-dyndns_optimized.black.domain.list.txt: 0.08%
+28. 54_raw.githubusercontent.com_soteria-nou_domain-list_refs_heads_master_all.txt.txt: 0.07%
+29. 57_www.github.developerdan.com_hosts_lists_ads-and-tracking-extended.txt.txt: 0.06%
+30. 43_raw.githubusercontent.com_migueldemoura_ublock-umatrix-rulesets_master_Hosts_ads-tracking.txt: 0.02%
+31. 40_raw.githubusercontent.com_infinitytec_blocklists_master_mlm.txt.txt: 0.02%
+32. http%3A%2F%2Fphishing.mailscanner.info%2Fphishing.bad.sites.conf.txt: 0.02%
+33. 38_raw.githubusercontent.com_infinitytec_blocklists_master_clickbait.txt.txt: 0.02%
+34. 50_raw.githubusercontent.com_mypdns_matrix_refs_heads_master_source_tracking_domains.csv.txt: 0.02%
+35. 12_raw.githubusercontent.com_ShadowWhisperer_BlockLists_refs_heads_master_RAW_Bloat.txt: 0.01%
+36. 27_raw.githubusercontent.com_bongochong_CombinedPrivacyBlockLists_master_NoFormatting_Misc_MD-Immortal_Domains-Backup.txt.txt: 0.01%
+37. 18_raw.githubusercontent.com_ShadowWhisperer_BlockLists_refs_heads_master_RAW_Risk.txt: 0.01%
+38. 2_github.com_infinitytec_blocklists_raw_master_ads-and-trackers.txt.txt: 0.01%
+39. 13_raw.githubusercontent.com_ShadowWhisperer_BlockLists_refs_heads_master_RAW_Chat.txt: 0.00%
+40. 33_raw.githubusercontent.com_cbuijs_hagezi_refs_heads_main_lists_popupads_domains.txt: 0.00%
+41. 20_raw.githubusercontent.com_ShadowWhisperer_BlockLists_refs_heads_master_RAW_Shock.txt: 0.00%
+42. 42_raw.githubusercontent.com_jerryn70_GoodbyeAds_master_Hosts_GoodbyeAds.txt.txt: 0.00%
+43. 56_threatfox.abuse.ch_downloads_hostfile_.txt: 0.00%
+44. 4_hostfiles.frogeye.fr_firstparty-trackers.txt.txt: 0.00%
+45. 44_raw.githubusercontent.com_mypdns_matrix_refs_heads_master_source_adware_domains.csv.txt: 0.00%
+46. 48_raw.githubusercontent.com_mypdns_matrix_refs_heads_master_source_scamming_domains.csv.txt: 0.00%
+47. 55_raw.githubusercontent.com_x0uid_SpotifyAdBlock_refs_heads_master_SpotifyBlocklist.txt.txt: 0.00%
+48. 15_raw.githubusercontent.com_ShadowWhisperer_BlockLists_refs_heads_master_RAW_Dynamic.txt: 0.00%
+49. 46_raw.githubusercontent.com_mypdns_matrix_refs_heads_master_source_phishing_domains.csv.txt: 0.00%
+50. 24_raw.githubusercontent.com_Th3M3_blocklists_refs_heads_master_tracking%26ads.list.txt: 0.00%
+51. 49_raw.githubusercontent.com_mypdns_matrix_refs_heads_master_source_spyware_domains.csv.txt: 0.00%
+52. 23_raw.githubusercontent.com_StevenBlack_hosts_master_alternates_fakenews-gambling_hosts.txt: 0.00%
+53. 35_raw.githubusercontent.com_d3ward_toolz_master_src_d3host.txt.txt: 0.00%
+54. 22_raw.githubusercontent.com_Sinfonietta_hostfiles_refs_heads_master_gambling-hosts.txt: 0.00%
+55. Names.txt: 0.00%
+56. 45_raw.githubusercontent.com_mypdns_matrix_refs_heads_master_source_malicious_domains.csv.txt: 0.00%
+57. 51_raw.githubusercontent.com_paulgb_BarbBlock_refs_heads_main_blocklists_hosts-file.txt.txt: 0.00%
+58. 47_raw.githubusercontent.com_mypdns_matrix_refs_heads_master_source_redirector_domains.csv.txt: 0.00%
+59. 28_raw.githubusercontent.com_bongochong_CombinedPrivacyBlockLists_refs_heads_master_NoFormatting_AdditionalSupplementaryHosts.txt.txt: 0.00%
+
