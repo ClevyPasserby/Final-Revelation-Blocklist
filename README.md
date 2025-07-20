@@ -1,8 +1,5 @@
 Under Construction.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClevyPasserby)](https://github.com/anuraghazra/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=ClevyPasserby)](https://github.com/ryo-ma/github-profile-trophy)
-
 Usage:
 
 1. https%3A%2F%2Fraw.githubusercontent.com%2FxRuffKez%2FNRD%2Frefs%2Fheads%2Fmain%2Flists%2F14-day%2Fdomains-only%2Fnrd-14day.txt: 69.39%
