@@ -386,19 +386,28 @@ func worker(ctx context.Context, wg *sync.WaitGroup, domainsChan <-chan string) 
 }
 
 func processDomain(domain string) {
-	output, status, err := runDnsLookupWithOutput(domain)
+	// Retry up to 3 times (initial + 2 retries) for blank outputs
+	var output, status string
+	var err error
+	attempts := 0
+	maxAttempts := 3
 
-	if isBlankOutput(output) {
-		// Blank output - log but don't write to any file
-		logMu.Lock()
-		fmt.Fprintf(logFile, "[%s] Domain: %s\nOutput:\n%s\nVerdict: SKIPPED (blank output)\n%s\n\n",
-			time.Now().Format(time.RFC3339), domain, output, strings.Repeat("-", 50))
-		logMu.Unlock()
+	for attempts < maxAttempts {
+		attempts++
+		output, status, err = runDnsLookupWithOutput(domain)
 
-		mu.Lock()
-		processed++
-		mu.Unlock()
-		return
+		// If we get non-blank output, break out of retry loop
+		if !isBlankOutput(output) {
+			break
+		}
+
+		// For blank output on final attempt, skip without logging
+		if attempts == maxAttempts {
+			mu.Lock()
+			processed++
+			mu.Unlock()
+			return
+		}
 	}
 
 	if strings.Contains(output, "fatal] Cannot make the DNS request") && strings.Contains(output, "i/o timeout") {
